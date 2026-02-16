@@ -52,7 +52,7 @@ A comparative study between NextEra Energy (NEE), a leader in renewable energy, 
 
 ### 4. Multivariate Statistics (MVS)
 Two different group projects.
-* **First project:** Identification of latent dimensions in consumer preferences and the study of correlations between distinct sets of multivariate variables.
+<br>**First project:** Identification of latent dimensions in consumer preferences and the study of correlations between distinct sets of multivariate variables.
 <br>**Methodology:**
 * Principal Component Analysis (PCA): Used to reduce dimensionality and visualize data variance.
 * Exploratory Factor Analysis (EFA): Applied with Varimax rotation to extract interpretable latent factors from raw survey data.
@@ -61,7 +61,7 @@ Two different group projects.
 * **Full Report:** [View PDF Report](./Multivariate%20Statistics/Assignment%201/MVS_Assignment_1.pdf)
 * **Full R script:** [View Script](./Multivariate%20Statistics/Assignment%201/Task1.R) ; [View Script](./Multivariate%20Statistics/Assignment%201/Task2.R)
 
-* **Second project:** Classification of observations into homogeneous groups and the geometric representation of complex distances.
+<br>**Second project:** Classification of observations into homogeneous groups and the geometric representation of complex distances.
 <br>**Methodology:** 
 * Cluster Analysis: Implemented both Hierarchical Clustering (using Ward's method) and Non-hierarchical Clustering (K-means) to segment the dataset.
 * Cluster Validation: Used Silhouette plots and statistical indices to determine the optimal number of clusters.
@@ -69,7 +69,6 @@ Two different group projects.
 * Key Findings: identified robust clusters of observations (e.g., countries or consumers) sharing distinct socio-economic or behavioral profiles; the MDS mapping provided a clear visual representation of the "distance" between entities, revealing hidden proximity patterns that were not visible in the original high-dimensional space.
 * **Full Report:** [View PDF Report](./Multivariate%20Statistics/Assignment%202/MVS_Assignment_2.pdf)
 * **Full R script:** [View Script](./Multivariate%20Statistics/Assignment%202/Assignment%202%20Multivariate.R)
-
 * **Tools:** R (psych, GPArotation, CCA, cluster, factoextra, vegan, ggplot2, tidyverse, corrplot)
 
 ![MVS Preview](./Multivariate%20Statistics/GIF_MVS.gif)
