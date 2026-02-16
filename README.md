@@ -98,11 +98,8 @@ Developed a mathematical optimization model to determine the most profitable all
 ---
 
 ## Reference Letters
-* **James Osborne, Partner and Head of Sustainability, Lundquist:** 
-![File](./Reference%20Letters/ReferenceLetter_Osborne.pdf)
-
-* **Concetta Cardamone, Sustainability Manager, Theras** 
-![View File](./Reference%20Letters/ReferenceLetter_Cardamone.pdf)
+* **James Osborne, Partner and Head of Sustainability, Lundquist:** [View File](./Reference%20Letters/ReferenceLetter_Osborne.pdf)
+* **Concetta Cardamone, Sustainability Manager, Theras** [View File](./Reference%20Letters/ReferenceLetter_Cardamone.pdf)
 
 ---
 
