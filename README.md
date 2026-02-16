@@ -60,7 +60,6 @@ Two different group projects.
 * Key Findings: successfully condensed high-dimensional data into a few key latent factors that explain the majority of the variance; identified significant "Canonical Variates" that highlight how specific groups of independent variables drive outcomes in the dependent set.
 * **Full Report:** [View PDF Report](./Multivariate%20Statistics/Assignment%201/MVS_Assignment_1.pdf)
 * **Full R script:** [View Script](./Multivariate%20Statistics/Assignment%201/Task1.R) ; [View Script](./Multivariate%20Statistics/Assignment%201/Task2.R)
-
 <br>**Second project:** Classification of observations into homogeneous groups and the geometric representation of complex distances.
 <br>**Methodology:** 
 * Cluster Analysis: Implemented both Hierarchical Clustering (using Ward's method) and Non-hierarchical Clustering (K-means) to segment the dataset.
