@@ -1,10 +1,10 @@
 <img src="./profilepicture.jpg" width="160" align="right" style="width: 100px; height: 140px; object-fit: cover; margin-left: 20px;">
+<div>
+  <b style="font-size: 2em;">Recent Works Portfolio | Paolo Rinaldi</b>
+</div>
+Welcome to my portfolio! This repository showcases my core projects developed during my ongoing Master’s Degree, with a focus on Statistical Modeling, Machine Learning, Time Series Analysis and Financial Market Analysis.
 
-# Recent Works Portfolio | Paolo Rinaldi
 
-Welcome to my portfolio! This repository showcases my core projects developed during my ongoing Master’s Degree, with a focus on statistical modeling, machine learning, time series analysis and financial market analysis.
-
----
 
 ## 📊 Key Projects
 
