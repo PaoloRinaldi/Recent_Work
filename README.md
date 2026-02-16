@@ -4,7 +4,7 @@ Welcome to my portfolio! This repository showcases my core projects developed du
 
 
 
-## 📊 Key Projects
+## Key Projects
 
 ### 1. Machine Learning & Predictive Modeling
 Development of a robust classification pipeline to predict the likelihood of loan default for LendingClub borrowers. The project focuses on handling highly imbalanced datasets where the cost of a "False Negative" (failing to identify a default) significantly outweighs other errors.
@@ -92,13 +92,19 @@ Developed a mathematical optimization model to determine the most profitable all
 
 ---
 
-## 🛠 Technical Stack
+## Technical Stack
 * **Languages and Softwares:** Python, R, Excel, Powerpoint, Latex
 * **Specialties:** Time Series Analysis, Machine Learning for Regression and Classification, Technical and Fundamental Analysis of stocks, Linear Programming
 * **Soft Skills:** Data visualization, Quantitative reporting, Problem solving, Oral presentation
 
 ---
 
-## 📫 Contact Me
+## Reference Letters
+* **James Osborne, Partner and Head of Sustainability, Lundquist:** [View File](./Reference%20Letters/ReferenceLetter_Osborne.pdf)
+* **Concetta Cardamone, Sustainability Manager, Theras** [View File](./Reference%20Letters/ReferenceLetter_Cardamone.pdf)
+
+---
+
+## Contact Me
 * **LinkedIn:** [https://www.linkedin.com/in/paolo-rinaldi00/]
 * **Email:** [rinaldipaolo910@gmail.com]
