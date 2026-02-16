@@ -1,10 +1,5 @@
-<img src="./profilepicture.jpg" width="160" align="right" style="width: 100px; height: 140px; object-fit: cover; margin-left: 20px;">
-<br>
-
-<div>
-  <b><font size="4">Paolo Rinaldi</font></b><br>
-  <b><font size="4">Quantitative Analysis Portfolio</font></b>
-</div>
+# Recent Works Portfolio | Paolo Rinaldi
+<img src="./profilepicture.jpg" width="160" align="right" style="width: 65px; height: 90px; object-fit: cover; margin-left: 20px;">
 Welcome to my portfolio! This repository showcases my core projects developed during my ongoing Master’s Degree, with a focus on Statistical Modeling, Machine Learning, Time Series Analysis and Financial Market Analysis.
 
 
